@@ -28,3 +28,5 @@ The script collects and stores the following data:
 - Salary (or Salary Range, if available)
 - Job Type
 - Other relevant job specification fields (where available)
+
+This is a **simple student project** — it does not include advanced validation, security, or styling.
