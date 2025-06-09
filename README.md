@@ -1,4 +1,4 @@
-
+# OOP Data Science Scrapping Project
 ### 📚 University Project – Object-Oriented Programming CA
 
 This project was completed during my **second year** of the **BSc in Mathematics and Data Science** at **Dundalk Institute of Technology**, as part of the continuous assessment for the **Object-Oriented Programming** module. The objective The objective of this project was to build a fully automated web scraping pipeline to extract live job listings in the field of Data Science from a selected website, clean the data, and store it in a structured relational database for easy querying.
